@@ -1,0 +1,40 @@
+/* Login */
+.register__main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.register__main form{
+    width: 20%;
+    border:1px solid black;
+    padding:10px;
+}
+
+.register__main form div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.register__main form button{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+/* Home */
+.home__main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home__main table{
+    border:1px solid black;
+}
+
+.home__main button{
+    margin-top: 1rem;
+}
+
